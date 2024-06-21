@@ -6,12 +6,6 @@ import Options from "../Options/Options";
 import Notification from "../Notification/Notification";
 
 export default function App() {
-  const totalFeedback =
-    feedbackCount.good + feedbackCount.neutral + feedbackCount.bad;
-  const positiveFeedback = Math.round(
-    (feedbackCount.good / totalFeedback) * 100
-  );
-
   const [feedbackCount, setFeedbackCount] = useState(() => {
     const feedbackCount = localStorage.getItem("feedback-count");
     if (feedbackCount !== null) {
@@ -20,6 +14,12 @@ export default function App() {
 
     return {};
   });
+
+  const totalFeedback =
+    feedbackCount.good + feedbackCount.neutral + feedbackCount.bad;
+  const positiveFeedback = Math.round(
+    (feedbackCount.good / totalFeedback) * 100
+  );
 
   const updateFeedback = (feedbackType) => {
     const lowerCaseFeedabckType = feedbackType.toLowerCase();
