@@ -12,7 +12,7 @@ export default function App() {
       return JSON.parse(feedbackCount);
     }
 
-    return {};
+    return { good: 0, neutral: 0, bad: 0 };
   });
 
   const totalFeedback =
