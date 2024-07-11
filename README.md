@@ -49,3 +49,18 @@ This repository contains the implementation of a feedback widget for the café "
 - `Feedback`: Displays the collected feedback statistics.
 - `Options`: Provides buttons for submitting feedback and resetting statistics.
 - `Notification`: Displays a message when no feedback has been collected.
+
+## Acknowledgments
+
+<img src="https://goit.global/mx/assets/images/logo-goit.svg" alt="goit logo" width="10%"/>
+
+[GOIT](https://edu.goit.global/uk/referral?x=eyJlbWFpbCI6InNvcmxlbmtAZ21haWwuY29tIiwiZmlyc3ROYW1lIjoi0KHQtdGA0LPRltC5IiwibG9jYWxlIjoidWsiLCJsYW5ndWFnZSI6InVrIiwidG90YWxIb3VycyI6NzcsImN1cnJlbnRPckxhc3RUZWNobm9sb2d5IjoiSFRNTF9DU1MiLCJwYXNzZWRIb21ld29ya3NDb3VudCI6NX0=) -
+big love to GoIT team for their patience, afford, help, and positivity that they
+share with us ❤️
+
+## Author
+
+- Website - [www.grifano.com](https://grifano.com)
+- Frontend Mentor -
+  [www.frontendmentor.com](https://www.frontendmentor.io/profile/grifano)
+- LinkedIn - [www.linkedin.com](https://www.linkedin.com/in/grifano/)
