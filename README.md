@@ -4,7 +4,7 @@
 
 ## Module 2: State, hooks useState
 
-<img src="./src/assets/screen.png" alt="app screenshot" width="50%"/>
+<img src="./src/assets/screen.webp" alt="app screenshot" width="50%"/>
 
 This repository contains the implementation of a feedback widget for the café "Sip Happens Café". The project was created using Vite and is structured to adhere to React best practices. The application collects feedback and displays statistics for each category (good, neutral, bad), preserving data between page reloads.
 
