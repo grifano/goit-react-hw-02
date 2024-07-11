@@ -1,6 +1,6 @@
 <img src="./src/assets/react-logo.svg" alt="react logo" width="10%"/>
 
-# GOIT - React: Feedback Widget App
+# React Feedback Widget App
 
 ## Module 2: State, hooks useState
 
